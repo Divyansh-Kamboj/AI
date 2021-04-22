@@ -1,5 +1,5 @@
 import wolframalpha 
-client = wolframalpha.Client("32HAHT-WTPJ5U7G8A")
+client = wolframalpha.Client("wolframalpha client id")
 
 import wikipedia
 
@@ -32,3 +32,4 @@ while True:
     print (values[0])
 
 window.close()
+
